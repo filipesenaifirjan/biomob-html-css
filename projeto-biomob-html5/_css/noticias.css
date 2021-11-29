@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+section#corpo {
+    display: block;
+    width:  603px;  
+    float: left; 
+    padding-right: 40px;
+   /* border-right:  1px solid #606060;*/
+}
+/*article#noticia-principal h2 {
+    font-size: 12pt;
+    color:  #606060;
+    background-color: #dddd ;
+    padding: 5px 0px 5px 0px;
+    margin: 10px;
+}*/
+aside#lateral {
+    display: block ;
+    width: 600px;
+    float: right;
+}
